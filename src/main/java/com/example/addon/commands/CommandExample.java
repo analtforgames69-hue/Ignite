@@ -13,7 +13,7 @@ public class CommandExample extends Command {
      * The {@code name} parameter should be in kebab-case.
      */
     public CommandExample() {
-        super("example", "Sends a message.");
+        super("refresh", "Refreshes chunks.");
     }
 
     @Override
